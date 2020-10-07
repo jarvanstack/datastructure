@@ -8,10 +8,23 @@ package 冒泡排序_01;
 public class BubbleSort {
     /**
      * Bubble sort
-     * @param ints
+     *
+     * @param arrays
      * @return
      */
-     int[] bubbleSort(int[] ints){
-         return null;
-     }
+    public static int[] bubbleSort(int[] arrays) {
+        int length = arrays.length;
+        for (int i = 1; i < length; i++) {
+            for (int j = 0; j < length - i; j++) {
+                if (arrays[j + 1] < arrays[j]) {
+                    //相邻位置交换值
+                    int temp = arrays[j];
+                    arrays[j] = arrays[j + 1];
+                    arrays[j + 1] = temp;
+                }
+
+            }
+        }
+        return arrays;
+    }
 }

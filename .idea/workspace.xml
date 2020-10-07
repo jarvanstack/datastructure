@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="009c4f53-5bb9-4024-abde-009efd925a2d" name="Default Changelist" comment="" />
+    <list default="true" id="009c4f53-5bb9-4024-abde-009efd925a2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/归并排序_05/Driver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/归并排序_05/FloorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/归并排序_05/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/归并排序_05/MergeSort复制.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/冒泡排序_01/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/冒泡排序_01/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/冒泡排序_01/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/冒泡排序_01/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/希尔排序_04/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/希尔排序_04/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/选择排序_02/ChooseSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/选择排序_02/ChooseSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/选择排序_02/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/选择排序_02/Driver.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +32,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iAs84JScKNOgOeWC6DSN3QyAKg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -27,37 +46,28 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ds-02-常见排序算法实现/src/插入排序_03" />
-    <property name="settings.editor.selected.configurable" value="project.scopes" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="归并排序_05" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Enviroment\java\DataStructure\ds-02-常见排序算法实现\src\插入排序_03" />
       <recent name="D:\Enviroment\java\DataStructure\ds-02-常见排序算法实现\src\冒泡排序_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Driver (3)">
-    <configuration name="Driver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="选择排序_02.Driver" />
+  <component name="RunManager" selected="Application.CopyTest">
+    <configuration name="CopyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="快速排序_06.CopyTest" />
       <module name="ds-02-常见排序算法实现" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="选择排序_02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Driver (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="插入排序_03.Driver" />
-      <module name="ds-02-常见排序算法实现" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="插入排序_03.*" />
+          <option name="PATTERN" value="快速排序_06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,19 +88,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Driver (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="冒泡排序_01.Driver" />
+      <module name="ds-02-常见排序算法实现" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="冒泡排序_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Driver" />
-      <module name="ds-01-KMP模式匹配" />
+      <option name="MAIN_CLASS_NAME" value="选择排序_02.Driver" />
+      <module name="ds-02-常见排序算法实现" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="选择排序_02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="归并排序_05.Driver" />
+      <module name="ds-02-常见排序算法实现" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="归并排序_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FloorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="归并排序_05.FloorTest" />
+      <module name="ds-02-常见排序算法实现" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="归并排序_05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Driver (3)" />
+        <item itemvalue="Application.CopyTest" />
         <item itemvalue="Application.Driver (1)" />
-        <item itemvalue="Application.Driver (2)" />
-        <item itemvalue="Application.Driver" />
+        <item itemvalue="Application.FloorTest" />
+        <item itemvalue="Application.Driver (1)" />
+        <item itemvalue="Application.Driver (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -105,7 +161,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601361567523</updated>
       <workItem from="1601361570368" duration="3064000" />
-      <workItem from="1601799063743" duration="13044000" />
+      <workItem from="1601799063743" duration="45177000" />
     </task>
     <servers />
   </component>
@@ -117,30 +173,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="764" y="235" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601362108776" />
-    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601362222359">
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602051133139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601362222359" />
-    <state width="1875" height="164" key="GridCell.Tab.0.bottom" timestamp="1601862640896">
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602051133139" />
+    <state x="689" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601950910836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="164" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601862640896" />
-    <state width="1875" height="164" key="GridCell.Tab.0.center" timestamp="1601862640896">
+    <state x="689" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601950910836" />
+    <state width="1875" height="215" key="GridCell.Tab.0.bottom" timestamp="1602053252981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="164" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601862640896" />
-    <state width="1875" height="164" key="GridCell.Tab.0.left" timestamp="1601862640896">
+    <state width="1875" height="215" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602053252981" />
+    <state width="1875" height="215" key="GridCell.Tab.0.center" timestamp="1602053252981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="164" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601862640896" />
-    <state width="1875" height="164" key="GridCell.Tab.0.right" timestamp="1601862640896">
+    <state width="1875" height="215" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602053252981" />
+    <state width="1875" height="215" key="GridCell.Tab.0.left" timestamp="1602053252981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="164" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601862640896" />
+    <state width="1875" height="215" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602053252981" />
+    <state width="1875" height="215" key="GridCell.Tab.0.right" timestamp="1602053252981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="215" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602053252981" />
+    <state x="460" y="161" key="SettingsEditor" timestamp="1601948873698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="161" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601948873698" />
     <state x="639" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1601799079432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="639" y="342" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601799079432" />
+    <state x="446" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601958654803">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="446" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601958654803" />
     <state x="333" y="213" key="new project wizard" timestamp="1601799116351">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

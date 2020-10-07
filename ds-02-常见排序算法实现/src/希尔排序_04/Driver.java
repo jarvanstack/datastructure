@@ -8,7 +8,7 @@ package 希尔排序_04;
  */
 public class Driver {
     public static void main(String[] args) {
-        int [] ints = {1,3,4,2};
+        int [] ints = {1,3,4,2,8,6,5};
         int[] ints1 = ShellSort.shellSort(ints);
         for (int i = 0; i < ints1.length; i++) {
             System.out.println(ints1[i]);

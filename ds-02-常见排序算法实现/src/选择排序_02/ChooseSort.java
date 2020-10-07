@@ -5,8 +5,7 @@ package 选择排序_02;
  * @author 25301
  */
 public class ChooseSort {
-    public static int[] chooseSort(int[] ints) {
-
+    public static int[] chooseSort2(int[] ints) {
         for (int i = 0; i < ints.length; i++) {
             //这里对max赋予初值
             int maxIndex = 0;
@@ -24,5 +23,25 @@ public class ChooseSort {
             ints[maxIndex] = temp;
         }
         return ints;
+    }
+
+    public static int[] chooseSort(int[] arrays) {
+
+        for (int i = 0; i < arrays.length; i++) {
+            //这里对min 赋予初值
+            int minIndex = i;
+            int min = arrays[minIndex];
+            for (int j = i + 1; j < arrays.length; j++) {
+                // 如果出现更小的值就将最下值赋值给它
+                if (arrays[j] < min) {
+                    min = arrays[j];
+                    minIndex = j;
+                }
+            }
+            //最后将最小值移动到最开始的位置.
+            arrays[minIndex] = arrays[i];
+            arrays[i] = min;
+        }
+        return arrays;
     }
 }

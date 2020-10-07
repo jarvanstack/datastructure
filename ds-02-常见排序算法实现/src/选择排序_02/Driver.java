@@ -7,7 +7,7 @@ package 选择排序_02;
  */
 public class Driver {
     public static void main(String[] args) {
-        int[] ints = {4,3,1,2};
+        int[] ints = {4,3,1,2,0};
         int[] newInts = ChooseSort.chooseSort(ints);
         for (int newInt : newInts) {
             System.out.println(newInt);
