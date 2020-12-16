@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="009c4f53-5bb9-4024-abde-009efd925a2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/归并排序_05/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/归并排序_05/FloorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/归并排序_05/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/归并排序_05/MergeSort复制.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/冒泡排序_01/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/冒泡排序_01/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/冒泡排序_01/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/冒泡排序_01/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/希尔排序_04/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/希尔排序_04/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/选择排序_02/ChooseSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/选择排序_02/ChooseSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/选择排序_02/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds-02-常见排序算法实现/src/选择排序_02/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds-01-KMP模式匹配/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ds-01-KMP模式匹配/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ds-01-KMP模式匹配/src/main/java/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/ds-01-KMP模式匹配/src/main/java/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +22,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -35,13 +34,20 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="JupyterTrust" id="4cd206ab-754f-4187-9217-494266af4e23" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA 2019.3.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1iAs84JScKNOgOeWC6DSN3QyAKg" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -49,25 +55,42 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ds-02-常见排序算法实现/src/插入排序_03" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../diligent-bee/diligent-bee/ftcloud/ftcloud/ftcloud" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.12903225" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="prime" />
+      <recent name="" />
       <recent name="归并排序_05" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Enviroment\java\DataStructureAlgorithm\DataStructure\ds-03-Graph-图论\src\adjcencyLinkedList" />
       <recent name="D:\Enviroment\java\DataStructure\ds-02-常见排序算法实现\src\插入排序_03" />
       <recent name="D:\Enviroment\java\DataStructure\ds-02-常见排序算法实现\src\冒泡排序_01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CopyTest">
-    <configuration name="CopyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="快速排序_06.CopyTest" />
-      <module name="ds-02-常见排序算法实现" />
+  <component name="RunManager" selected="Application.Kruskal">
+    <configuration name="DfsAndBfsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DfsAndBfsTest" />
+      <module name="ds-03-Graph-图论" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Kruskal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kruskal.Kruskal" />
+      <module name="ds-03-Graph-图论" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="快速排序_06.*" />
+          <option name="PATTERN" value="kruskal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Driver (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="希尔排序_04.Driver" />
-      <module name="ds-02-常见排序算法实现" />
+    <configuration name="KruskalGetAllEdgesTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="kruskal.KruskalGetAllEdgesTest" />
+      <module name="ds-03-Graph-图论" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="希尔排序_04.*" />
+          <option name="PATTERN" value="kruskal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Driver (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="冒泡排序_01.Driver" />
-      <module name="ds-02-常见排序算法实现" />
+    <configuration name="MinimumSpanningTreePrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prime.MinimumSpanningTreePrime" />
+      <module name="ds-03-Graph-图论" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="冒泡排序_01.*" />
+          <option name="PATTERN" value="prime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="选择排序_02.Driver" />
-      <module name="ds-02-常见排序算法实现" />
+    <configuration name="MinimumSpanningTreePrimeBlog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prime.MinimumSpanningTreePrimeBlog" />
+      <module name="ds-03-Graph-图论" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="选择排序_02.*" />
+          <option name="PATTERN" value="prime.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,42 +137,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="归并排序_05.Driver" />
-      <module name="ds-02-常见排序算法实现" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="归并排序_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FloorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="归并排序_05.FloorTest" />
-      <module name="ds-02-常见排序算法实现" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="归并排序_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CopyTest" />
-        <item itemvalue="Application.Driver (1)" />
-        <item itemvalue="Application.FloorTest" />
-        <item itemvalue="Application.Driver (1)" />
-        <item itemvalue="Application.Driver (4)" />
+        <item itemvalue="Application.Kruskal" />
+        <item itemvalue="Application.KruskalGetAllEdgesTest" />
+        <item itemvalue="Application.MinimumSpanningTreePrimeBlog" />
+        <item itemvalue="Application.MinimumSpanningTreePrime" />
+        <item itemvalue="Application.DfsAndBfsTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -161,62 +170,172 @@
       <option name="presentableId" value="Default" />
       <updated>1601361567523</updated>
       <workItem from="1601361570368" duration="3064000" />
-      <workItem from="1601799063743" duration="45177000" />
+      <workItem from="1601799063743" duration="46202000" />
+      <workItem from="1602060160924" duration="4433000" />
+      <workItem from="1602124458573" duration="1340000" />
+      <workItem from="1602504845954" duration="1653000" />
+      <workItem from="1602551807172" duration="2588000" />
+      <workItem from="1602760286318" duration="1030000" />
+      <workItem from="1603327990132" duration="7762000" />
+      <workItem from="1603773725559" duration="1244000" />
+      <workItem from="1603889574285" duration="656000" />
+      <workItem from="1604970491947" duration="5151000" />
+      <workItem from="1605072924567" duration="711000" />
+      <workItem from="1605178841316" duration="117000" />
+      <workItem from="1605750729242" duration="4696000" />
+      <workItem from="1605781803246" duration="2272000" />
+      <workItem from="1605835765410" duration="7191000" />
+      <workItem from="1605869026356" duration="1157000" />
+      <workItem from="1605920542394" duration="8445000" />
+      <workItem from="1606027564342" duration="1125000" />
+      <workItem from="1606189795772" duration="16191000" />
+      <workItem from="1606388010298" duration="361000" />
+      <workItem from="1606437330228" duration="11002000" />
+      <workItem from="1606459715393" duration="2106000" />
+      <workItem from="1606470962486" duration="734000" />
+      <workItem from="1606525310404" duration="39000" />
+      <workItem from="1607864252232" duration="315000" />
+      <workItem from="1607864582698" duration="13405000" />
+      <workItem from="1608023428586" duration="1980000" />
+      <workItem from="1608034202264" duration="2264000" />
+      <workItem from="1608110115960" duration="8882000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="764" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1601362108776">
+    <state x="552" y="181" key="#Inspections" timestamp="1607921214399">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Inspections/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603328888143" />
+    <state x="552" y="181" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1607921214399" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1605774123878">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1605774123878" />
+    <state x="764" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1608113501471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="764" y="235" key="#com.intellij.ide.util.MemberChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601362108776" />
-    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1602051133139">
+    <state x="611" y="186" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606294352147" />
+    <state x="764" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608113501471" />
+    <state x="354" y="136" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607864333528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="354" y="136" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607864333528" />
+    <state x="460" y="409" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1606437527772">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="324" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1606293807424" />
+    <state x="460" y="409" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606437527772" />
+    <state x="717" y="382" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1605862195187">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="382" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1605862195187" />
+    <state x="629" y="405" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1606437529462">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="405" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1606437529462" />
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605948588958">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602051133139" />
+    <state x="658" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605948588958" />
     <state x="689" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601950910836">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601950910836" />
-    <state width="1875" height="215" key="GridCell.Tab.0.bottom" timestamp="1602053252981">
+    <state x="739" y="274" width="539" height="490" key="FileChooserDialogImpl" timestamp="1606464969033">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="215" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602053252981" />
-    <state width="1875" height="215" key="GridCell.Tab.0.center" timestamp="1602053252981">
+    <state x="739" y="274" key="FileChooserDialogImpl/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603773769499" />
+    <state x="489" y="217" width="539" height="490" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606388125924" />
+    <state x="739" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606464969033" />
+    <state width="1655" height="48" key="GridCell.Tab.0.bottom" timestamp="1608120742503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="215" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602053252981" />
-    <state width="1875" height="215" key="GridCell.Tab.0.left" timestamp="1602053252981">
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603533278826" />
+    <state width="1493" height="100" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604971487603" />
+    <state width="1655" height="48" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608120742503" />
+    <state width="1655" height="48" key="GridCell.Tab.0.center" timestamp="1608120742503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="215" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602053252981" />
-    <state width="1875" height="215" key="GridCell.Tab.0.right" timestamp="1602053252981">
+    <state width="1877" height="222" key="GridCell.Tab.0.center/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603533278826" />
+    <state width="1493" height="100" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604971487602" />
+    <state width="1655" height="48" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608120742503" />
+    <state width="1655" height="48" key="GridCell.Tab.0.left" timestamp="1608120742503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1875" height="215" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602053252981" />
-    <state x="460" y="161" key="SettingsEditor" timestamp="1601948873698">
+    <state width="1877" height="222" key="GridCell.Tab.0.left/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603533278826" />
+    <state width="1493" height="100" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604971487599" />
+    <state width="1655" height="48" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608120742503" />
+    <state width="1655" height="48" key="GridCell.Tab.0.right" timestamp="1608120742503">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="460" y="161" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601948873698" />
-    <state x="639" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1601799079432">
+    <state width="1877" height="222" key="GridCell.Tab.0.right/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603533278826" />
+    <state width="1493" height="100" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604971487603" />
+    <state width="1655" height="48" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608120742503" />
+    <state x="436" y="184" key="IDE.errors.dialog" timestamp="1608116558401">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="639" y="342" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601799079432" />
+    <state x="349" y="146" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1604971582938" />
+    <state x="436" y="184" key="IDE.errors.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608116558401" />
+    <state x="460" y="161" key="SettingsEditor" timestamp="1606368651663">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="161" key="SettingsEditor/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1602504890900" />
+    <state x="460" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606368651663" />
+    <state width="623" height="498" key="SwitcherDM" timestamp="1608115674638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="623" height="498" key="SwitcherDM/0.0.1920.1040@0.0.1920.1040" timestamp="1608115674638" />
+    <state x="821" y="362" key="cloudConfig.SelfSettingsDialog" timestamp="1607915008796">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="821" y="362" key="cloudConfig.SelfSettingsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1607915008796" />
+    <state x="639" y="342" key="com.intellij.ide.util.TipDialog" timestamp="1603773732239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="639" y="342" key="com.intellij.ide.util.TipDialog/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603773732239" />
     <state x="446" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1601958654803">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="446" y="108" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601958654803" />
-    <state x="333" y="213" key="new project wizard" timestamp="1601799116351">
+    <state x="475" y="255" width="969" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1605921252688">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="475" y="255" width="969" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1605921252688" />
+    <state x="721" y="0" width="1215" height="961" maximized="true" key="dock-window-1" timestamp="1608114388718">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="721" y="0" width="1215" height="961" maximized="true" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1608114388718" />
+    <state x="690" y="282" key="extract.method.dialog" timestamp="1606453508888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="282" key="extract.method.dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606453508888" />
+    <state x="581" y="244" width="759" height="558" key="find.popup" timestamp="1606454225523">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="581" y="244" width="759" height="548" key="find.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1603629592139" />
+    <state x="581" y="244" width="759" height="558" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606454225523" />
+    <state x="333" y="183" key="new project wizard" timestamp="1606459806071">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="333" y="213" key="new project wizard/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601799116351" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601801036987">
+    <state x="266" y="145" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604970619543" />
+    <state x="333" y="183" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1606459806071" />
+    <state x="511" y="244" key="run.anything.popup" timestamp="1606368588201">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1601801036987" />
+    <state x="511" y="244" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606368588201" />
+    <state x="623" y="225" width="840" height="678" key="search.everywhere.popup" timestamp="1608114937037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/-1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1605869232852" />
+    <state x="498" y="178" width="672" height="538" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1606189811126" />
+    <state x="623" y="225" width="840" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608114937037" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -226,6 +345,10 @@
           <line>10</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

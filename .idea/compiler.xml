@@ -6,8 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ds-01-KMP模式匹配" />
+        <module name="ds-01-KMP模式匹配-version-02" />
+        <module name="test-hello-world" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ds-03-Graph图论" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

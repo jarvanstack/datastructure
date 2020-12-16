@@ -1,0 +1,243 @@
+{
+  "code": 0,
+  "msg": "获取成功",
+  "data": {
+    "markers": [
+      {
+        "title": "渝AAM319",
+        "latitude": 23.287295,
+        "longitude": 113.327919,
+        "id": "915",
+        "iconPath": "\/images\/icon_online.png",
+        "width": 22,
+        "height": 22,
+        "acc": 1603621953,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝AAM319",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#f06359",
+          "borderRadius": 5
+        }
+      },
+      {
+        "title": "渝AAL075",
+        "latitude": 22.398771,
+        "longitude": 113.431106,
+        "id": "916",
+        "iconPath": "\/images\/icon_online.png",
+        "width": 22,
+        "height": 22,
+        "acc": 1603625548,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝AAL075",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#f06359",
+          "borderRadius": 5
+        }
+      },
+      {
+        "title": "渝AAL065",
+        "latitude": 23.287336,
+        "longitude": 113.328021,
+        "id": "917",
+        "iconPath": "\/images\/icon_online.png",
+        "width": 22,
+        "height": 22,
+        "acc": 1603619956,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝AAL065",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#f06359",
+          "borderRadius": 5
+        }
+      },
+      {
+        "title": "渝AS0556",
+        "latitude": 23.852924,
+        "longitude": 112.909743,
+        "id": "1109",
+        "iconPath": "\/images\/icon_online.png",
+        "width": 22,
+        "height": 22,
+        "acc": 1603627833,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝AS0556",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#3dbaba",
+          "borderRadius": 5
+        }
+      },
+      {
+        "title": "渝AM2151",
+        "latitude": 23.226219,
+        "longitude": 113.333511,
+        "id": "1392",
+        "iconPath": "\/images\/icon_offline.png",
+        "width": 22,
+        "height": 22,
+        "acc": 0,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝AM2151",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#f2c530",
+          "borderRadius": 5
+        }
+      },
+      {
+        "title": "渝AM2162",
+        "latitude": 23.129571,
+        "longitude": 113.400081,
+        "id": "1393",
+        "iconPath": "\/images\/icon_online.png",
+        "width": 22,
+        "height": 22,
+        "acc": 1603607161,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝AM2162",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#f06359",
+          "borderRadius": 5
+        }
+      },
+      {
+        "title": "渝AS0555",
+        "latitude": 23.287296,
+        "longitude": 113.327923,
+        "id": "1645",
+        "iconPath": "\/images\/icon_online.png",
+        "width": 22,
+        "height": 22,
+        "acc": 1603625519,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝AS0555",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#f06359",
+          "borderRadius": 5
+        }
+      },
+      {
+        "title": "渝AS0529",
+        "latitude": 23.314574,
+        "longitude": 113.373976,
+        "id": "1704",
+        "iconPath": "\/images\/icon_online.png",
+        "width": 22,
+        "height": 22,
+        "acc": 1603627849,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝AS0529",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#3dbaba",
+          "borderRadius": 5
+        }
+      },
+      {
+        "title": "渝AM2160",
+        "latitude": 23.183758,
+        "longitude": 113.849095,
+        "id": "1762",
+        "iconPath": "\/images\/icon_online.png",
+        "width": 22,
+        "height": 22,
+        "acc": 1603609029,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝AM2160",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#f06359",
+          "borderRadius": 5
+        }
+      },
+      {
+        "title": "渝AZ0F51",
+        "latitude": 23.426765,
+        "longitude": 113.490596,
+        "id": "4688",
+        "iconPath": "\/images\/icon_online.png",
+        "width": 22,
+        "height": 22,
+        "acc": 1603617503,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝AZ0F51",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#f06359",
+          "borderRadius": 5
+        }
+      },
+      {
+        "title": "渝AZ0F12",
+        "latitude": 23.286999,
+        "longitude": 113.328083,
+        "id": "5007",
+        "iconPath": "\/images\/icon_offline.png",
+        "width": 22,
+        "height": 22,
+        "acc": 0,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝AZ0F12",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#f2c530",
+          "borderRadius": 5
+        }
+      },
+      {
+        "title": "渝A2E3Z3",
+        "latitude": 23.521081,
+        "longitude": 113.643315,
+        "id": "5740",
+        "iconPath": "\/images\/icon_online.png",
+        "width": 22,
+        "height": 22,
+        "acc": 1603616473,
+        "callout": {
+          "color": "#ffffff",
+          "content": "渝A2E3Z3",
+          "display": "ALWAYS",
+          "padding": 5,
+          "fontSize": 18,
+          "bgColor": "#f06359",
+          "borderRadius": 5
+        }
+      }
+    ],
+    "info": {
+      "total": 12,
+      "online": 10,
+      "mileage": 1997.1,
+      "working": 2,
+      "totalusedtime": 55
+    }
+  }
+}

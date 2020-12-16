@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>ds-01-KMP模式匹配</module>
+        <module>ds-01-KMP模式匹配-version-02</module>
+        <module>ds-03-Graph图论</module>
+        <module>test-hello-world</module>
     </modules>
 
 

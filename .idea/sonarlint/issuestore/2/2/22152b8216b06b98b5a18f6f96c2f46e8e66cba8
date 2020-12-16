@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆ§Š½
+\
+java:S1854
+"ARemove this useless assignment to local variable "quickSortCopy".(ŽÓýçøÿÿÿÿ
+‡
+java:S1130	"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+M
+java:S1481
+"2Remove this unused "quickSortCopy" local variable.(ŽÓýçøÿÿÿÿ

@@ -1,0 +1,9 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¨άρώÿÿÿÿ8®°Μ•Π.
+C
+java:S2185""&Remove this silly call to "Math.floor"(²¦Ί©8±Μ•Π.
+_
+java:S2184""BCast one of the operands of this division operation to a "double".(²¦Ί©8±Μ•Π.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“Κ
+
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¨άρώÿÿÿÿ8®°Μ•Π.

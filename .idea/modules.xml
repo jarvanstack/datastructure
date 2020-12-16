@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ds-02-常见排序算法实现/ds-02-常见排序算法实现.iml" filepath="$PROJECT_DIR$/ds-02-常见排序算法实现/ds-02-常见排序算法实现.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ds-03-Graph-图论/ds-03-Graph-图论.iml" filepath="$PROJECT_DIR$/ds-03-Graph-图论/ds-03-Graph-图论.iml" />
     </modules>
   </component>
 </project>

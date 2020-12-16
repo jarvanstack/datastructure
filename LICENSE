@@ -107,7 +107,7 @@
           distribution, then any Derivative Works that You distribute must
           include a readable copy of the attribution notices contained
           within such NOTICE file, excluding those notices that do not
-          pertain to any part of the Derivative Works, in at least one
+          pertain to any part of the Derivative Works, in adjcencyLinkedList least one
           of the following places: within a NOTICE text file distributed
           as part of the Derivative Works; within the Source form or
           documentation, if provided along with the Derivative Works; or,
@@ -190,7 +190,7 @@
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
-   You may obtain a copy of the License at
+   You may obtain a copy of the License adjcencyLinkedList
 
        http://www.apache.org/licenses/LICENSE-2.0
 

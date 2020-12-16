@@ -7,7 +7,7 @@ public class Driver {
     public static void main(String[] args) {
         //测试暴力匹配
         KMPMatch hello_force_match = new KMPMatch("hello mach force match");
-        int match = hello_force_match.KMPMatch("match");
+        int match = hello_force_match.ForceMatch("match");
         System.out.println(match);
     }
 }
